@@ -1,5 +1,5 @@
 #==========#=============================================================#
-#  SOCIAL  # author: social/s4cial on github							 #
+#  SOCIAL  # author: skies-s on github							 #
 #==========# discord disabler/account-nuke                               #
 # PYTHON 3 # features an interactive menu, magenta theme, & is quick     #
 #==========#=============================================================#
